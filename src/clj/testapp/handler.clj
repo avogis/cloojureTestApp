@@ -29,20 +29,16 @@
                 [:div {:class "mdl-layout mdl-js-layout mdl-layout--fixed-header"}
                 navigation content ]]))
 
-(defn method-page [call-function] [:div[:h1 "Your new agile method:"]
-                  [:h3 {:id "new-cool-method"} (call-function)]
-                  [:a {:class "mdl-button mdl-js-button mdl-button--raised mdl-button--colored" :id "new-method-button" :href "/"} "Get a New Method" ]
-                  [:div {:class "mdl-button mdl-js-button mdl-button--raised mdl-button--colored" :id "js-here2"}]
+(defn method-page [] [:div[:h1 "Your new agile method:"]
+                  [:div {:id "new-cool-method"}]
+                  [:div {:id "js-here2"}]
                   [:script {:src "/js/testapp.js" :type "text/javascript"}]])
 
-(defn about-page [] )
+(defn about-page [] [:h3 "I'm a clojure noob"])
 
 (defroutes the-routes
-  (GET "/" [] (page-content (method-page namer/get-random-names)))
-  (GET "/about" [] (h/html5 head [:body
-                                  [:div {:class "mdl-layout mdl-js-layout mdl-layout--fixed-header"}
-                                   navigation
-                                    [:h3 "I'm a clojure noob"]]]))
+  (GET "/" [] (page-content (method-page)))
+  (GET "/about" [] (page-content (about-page)))
   (api
    {:swagger
     {:ui "/api-docs"

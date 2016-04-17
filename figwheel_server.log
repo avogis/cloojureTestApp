@@ -677,3 +677,118 @@ notifying browser that file changed:  resources/js/out/goog/deps.js
 notifying browser that file changed:  resources/js/out/cljs_deps.js
 notifying browser that file changed:  out/testapp/core.js
 [32mSuccessfully compiled "resources/js/testapp.js" in 0.398 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 2.235 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.37 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.23 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.413 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.273 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.293 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.301 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.372 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.221 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.256 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.321 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.241 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.252 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.188 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.186 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.205 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.356 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.216 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.353 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.21 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.18 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.265 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.234 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.357 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.218 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.177 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.188 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.344 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.433 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.379 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.465 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  resources/js/out/goog/deps.js
+notifying browser that file changed:  resources/js/out/cljs_deps.js
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.395 seconds.[0m
+[0mCompiling "resources/js/testapp.js" from ["src/cljs"]...
+notifying browser that file changed:  out/testapp/core.js
+[32mSuccessfully compiled "resources/js/testapp.js" in 0.238 seconds.[0m
