@@ -32,7 +32,7 @@
 (defn method-page [call-function] [:div[:h1 "Your new agile method:"]
                   [:h3 {:id "new-cool-method"} (call-function)]
                   [:a {:class "mdl-button mdl-js-button mdl-button--raised mdl-button--colored" :id "new-method-button" :href "/"} "Get a New Method" ]
-                  [:div {:id "js-here2"}]
+                  [:div {:class "mdl-button mdl-js-button mdl-button--raised mdl-button--colored" :id "js-here2"}]
                   [:script {:src "/js/testapp.js" :type "text/javascript"}]])
 
 (defn about-page [] )

@@ -31,6 +31,6 @@
     (js/console.log "da fuc"))
   (method))
 
-(r/render [#'button-container] (.getElementById js/document "js-here"))
-(r/render [#'method-container] (.getElementById js/document "js-here2"))
+(r/render [#'button-container] (.getElementById js/document "js-here2"))
+(r/render [#'method-container] (.getElementById js/document "js-here"))
 ;;(r/render [#'method] (.getElementById js/document "js-here"))
